@@ -1,0 +1,6 @@
+{
+  "name": "AutoRadio",
+  "description": "Digitale radio app voor Android Auto & rijden met wereldwijde zenders, RDS-informatie, Spotify-look en veilige grote bedieningsknoppen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
